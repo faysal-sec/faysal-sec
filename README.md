@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Faysal Ahmed 👋
+### Cybersecurity Professional | Penetration Tester | OSINT Specialist
 
-<!--
-**faysal-sec/faysal-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Working on:** WordPress Security and Malware Removal.
+- 🌱 **Learning:** Advanced OSINT and Digital Forensics.
+- 💬 **Ask me about:** Website Security, Malware Analysis, or OSINT.
+- 🌐 **My Blog:** [Faysal Ahmed | WordPress Security & OSINT Expert](https://faysalahmed.blogspot.com).
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Security:** Penetration Testing, Malware Analysis, OSINT.
+- **Web:** WordPress Security, Website Migration.
+- **Platforms:** Fiverr, LinkedIn, Blogger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/fsec-consulting/)
+[<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">](https://www.fiverr.com/sellers/faysal_sec)
